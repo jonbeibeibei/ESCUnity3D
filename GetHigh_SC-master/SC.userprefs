@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/EndlessJumper/Scripts/Player.cs">
+    <Files>
+      <File FileName="Assets/EndlessJumper/Scripts/GameManager.cs" Line="193" Column="21" />
+      <File FileName="Assets/EndlessJumper/Scripts/Tile.cs" Line="74" Column="18" />
+      <File FileName="Assets/EndlessJumper/Scripts/Player.cs" Line="85" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
